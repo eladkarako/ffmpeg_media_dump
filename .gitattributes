@@ -1,0 +1,19 @@
+#explicit binary content (reduced diff).
+
+*.exe         binary
+*.dll         binary
+*.res         binary
+
+*.nfo         text      eol=crlf
+*.json        text      eol=crlf
+*.xml         text      eol=crlf
+*.ts          text      eol=crlf
+*.js          text      eol=crlf
+*.cmd         text      eol=crlf
+*.txt         text      eol=crlf
+*.log         text      eol=crlf
+*.rc          text      eol=crlf
+*.manifest    text      eol=crlf
+
+*.md                    eol=crlf
+
